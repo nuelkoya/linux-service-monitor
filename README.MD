@@ -1,6 +1,6 @@
 # Linux Service Monitor
 
-A Bash-based Linux service monitoring tool that tracks CPU and memory usage for systemd services and logs results through journald.
+A Bash-based Linux service monitoring tool that tracks CPU and memory usage for systemd services and logs results through journald. 
 
 ## Features
 
